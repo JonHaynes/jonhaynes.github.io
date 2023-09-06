@@ -3,6 +3,10 @@ layout: default
 title: "Jonathan Ryan Haynes"
 ---
 
+<style type="text/css">
+  footer p small { display: none; }
+</style>
+
 Haynes, Jonathan Ryan, 40, passed unexpectedly on Thursday, June 30, 2022, in Tampa, Florida, where he resided for the last 15 years. Jonathan was born in St. Louis, Missouri on August 23, 1981, graduated from Parkway South High School in 1999, and received his Bachelor of Science in Biochemistry from the University of Southern Florida. The world is emptier without his wit, thoughtfulness, and unbridled charm.
 
 Jonathan was a loving and deeply caring son, brother, uncle, and friend. He was an exceptionally talented athlete and extraordinarily passionate about sports—especially baseball, football, and deep-sea diving. He had boundless potential and was a collector of tools, lover of cars, a skilled chef, and was deeply knowledgeable about biochemistry and medicine. Above all, Jonathan was a devoted lover of animals, particularly for his two puppies Pooh Bear and Pandora, who preceded him in death.
