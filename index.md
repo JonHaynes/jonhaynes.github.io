@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jonathan Ryan Haynes
+title: "Jonathan Ryan Haynes"
 ---
 
 # Jon
